@@ -3,3 +3,4 @@
 /models
 .vscode 
 *.ipynb_checkpoints
+.env
