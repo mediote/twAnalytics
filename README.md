@@ -15,7 +15,7 @@
 
 
 
-## Citation
+## Citação
 Para citar o twAnalytics em seu trabalho, por favor use a seguinte referência bibtex:
 
 ```bibtex
