@@ -6,4 +6,4 @@
 
 
 twAnalytics
-## Usando Processamento de Linguagem Natural (PLN) para analisar o comportamento das pessoas no Twitter
+## Usando BERTopic e Python para analisar o dados do Twitter
