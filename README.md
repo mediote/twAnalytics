@@ -4,7 +4,7 @@
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blueviolet)](http://lattes.cnpq.br/2455024624300452)
 
 
-# Usando BERTopic e Python para analisar dados do Twitter
+# Usando BERTopic e Python para analisar dados no Twitter
 
 
 
