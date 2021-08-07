@@ -11,9 +11,9 @@
 
 | Nome  | Link  |
 |---|---|
-| Coleta de tweets com a Twitter API  | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FieRA9fLdkQEGDIMYl0I3MCjSUKVF8C-?usp=sharing)  |
-| Pŕé-processamento de texto | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18arPPe50szvcCp_Y6xS56H2tY0m-RLqv?usp=sharing) |
-| Modelagem de tópicos com BERTopic  |  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ClTYut039t-LDtlcd-oQAdXWgcsSGTw9?usp=sharing) |
+| Coleta de tweets com a Twitter API  | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Pŕé-processamento de texto | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]( |
+| Modelagem de tópicos com BERTopic  |  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 
 
 
