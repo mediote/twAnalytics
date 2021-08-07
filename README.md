@@ -5,3 +5,27 @@
 
 
 # Usando BERTopic e Python para analisar dados do Twitter
+
+
+
+
+
+
+
+
+
+
+## Citation
+Para citar o twAnalytics em seu trabalho, por favor use a seguinte referência bibtex:
+
+```bibtex
+@misc{mediote2021twanalytics,
+  author       = {André Mediote de Sousa},
+  title        = {twAnalytics: Usando BERTopic e Python para analisar dados do Twitter.},
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {v0.1.0},
+  doi          = {},
+  url          = {}
+}
+```
