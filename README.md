@@ -12,7 +12,7 @@
 | Nome  | Link  |
 |---|---|
 | Coleta de tweets com a Twitter API  | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Pŕé-processamento de texto | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]( |
+| Pŕé-processamento de texto | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 | Modelagem de tópicos com BERTopic  |  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 
 
