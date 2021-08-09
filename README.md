@@ -20,8 +20,8 @@
 
 | Nome  | Link  |
 |---|---|
-| Provaxxers  | [![Download arquivo CSV](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/GetTwitter.ipynb)  |
-| Antivaxxers | [![Download arquivo CSV](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| Provaxxers  | [![Download arquivo CSV](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mediote/twAnalytics/blob/main/analises/datasets/antivaxxers.csv)  |
+| Antivaxxers | [![Download arquivo CSV](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mediote/twAnalytics/blob/main/analises/datasets/antivaxxers.csv) |
 
 
 
