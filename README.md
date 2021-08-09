@@ -18,10 +18,7 @@
 
 ## Datasets
 
-| Nome  | Link  |
-|---|---|
-| Provaxxers  | [![Download arquivo CSV](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mediote/twAnalytics/blob/main/analises/datasets/antivaxxers.csv)  |
-| Antivaxxers | [![Download arquivo CSV](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mediote/twAnalytics/blob/main/analises/datasets/antivaxxers.csv) |
+
 
 
 
