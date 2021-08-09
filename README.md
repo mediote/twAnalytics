@@ -7,7 +7,7 @@
 # Usando BERTopic e Python para analisar dados no Twitter
 
 
-
+## Colab 
 
 | Nome  | Link  |
 |---|---|
@@ -16,6 +16,12 @@
 | Modelagem de tópicos com BERTopic  |  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/BERTopic.ipynb) |
 
 
+## Datasets
+
+| Nome  | Link  |
+|---|---|
+| Provaxxers  | [![Download arquivo CSV](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/GetTwitter.ipynb)  |
+| Antivaxxers | [![Download arquivo CSV](https://colab.research.google.com/assets/colab-badge.svg)]() |
 
 
 
