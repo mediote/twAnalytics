@@ -24,7 +24,7 @@ Due to twitter information sharing policies, the data made available is anonymiz
 
 ## Citation
 
-To cite twAnalytics in your work, please use the following bibtex reference:
+To cite this reference in your work, please use the following bibtex reference:
 
 ```bibtex
 @misc{mediote2021twanalytics,
