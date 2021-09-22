@@ -13,9 +13,9 @@ Collective imunization is critical to combat COVID, but a large portion of the p
 
 | Nome  | Link  |
 |---|---|
-| Coleta de tweets com a Twitter API  | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/GetTwitter.ipynb)  |
-| Pŕé-processamento de texto | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
-| Modelagem de tópicos com BERTopic  |  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/BERTopic.ipynb) |
+| Data crawling on Twitter API  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/GetTwitter.ipynb)  |
+| Text pre-processing | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| Topic modeling whith BERTopic  |  [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/BERTopic.ipynb) |
 
 
 ## Datasets
