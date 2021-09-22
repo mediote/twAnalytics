@@ -23,7 +23,8 @@ Collective imunization is critical to combat COVID, but a large portion of the p
 Due to twitter information sharing policies, the data made available is anonymized.
 
 ## Citation
-Para citar o twAnalytics em seu trabalho, por favor use a seguinte referência bibtex:
+
+To cite twAnalytics in your work, please use the following bibtex reference:
 
 ```bibtex
 @misc{mediote2021twanalytics,
