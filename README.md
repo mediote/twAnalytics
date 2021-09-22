@@ -20,21 +20,17 @@ Collective imunization is critical to combat COVID, but a large portion of the p
 
 ## Datasets
 
+Due to twitter information sharing policies, the data made available is anonymized.
 
-
-
-
-## Citação
+## Citation
 Para citar o twAnalytics em seu trabalho, por favor use a seguinte referência bibtex:
 
 ```bibtex
 @misc{mediote2021twanalytics,
-  author       = {André Mediote de Sousa},
-  title        = {twAnalytics: Usando BERTopic e Python para analisar dados do Twitter.},
+  author       = {Sousa, Andre and Beacker, Karin},
+  title        = {Pro/Anti-vaxxers in Brazil: a temporal analysis of COVID vaccination stance in Twitter},
   year         = 2021,
-  publisher    = {},
-  version      = {v0.1.0},
-  doi          = {},
-  url          = {}
+  booktitle={Symposium on Knowledge Discovery, Mining and Learning},
+  organization={SBC}
 }
 ```
