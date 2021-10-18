@@ -19,7 +19,7 @@ Collective imunization is critical to combat COVID, but a large portion of the p
 | Nome  | Link  |
 |---|---|
 | Text pre-processing  and data crawling on Twitter API  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/GetTwitter.ipynb)  |
-| Topic modeling whith BERTopic  |  [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/BERTopic.ipynb) |
+| Topic modeling with BERTopic  |  [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/BERTopic.ipynb) |
 
 
 ## Datasets
