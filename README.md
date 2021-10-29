@@ -31,11 +31,12 @@ Due to twitter information sharing policies, the data made available is anonymiz
 To cite this reference in your work, please use the following bibtex reference:
 
 ```bibtex
-@misc{mediote2021twanalytics,
-  author       = {Sousa, Andre and Beacker, Karin},
-  title        = {Pro/Anti-vaxxers in Brazil: a temporal analysis of COVID vaccination stance in Twitter},
-  year         = 2021,
-  booktitle={Symposium on Knowledge Discovery, Mining and Learning},
+@inproceedings{de2021pro,
+  title={Pro/Anti-vaxxers in Brazil: a temporal analysis of COVID vaccination stance in Twitter},
+  author={de Sousa, Andr{\'e} Mediote and Becker, Karin},
+  booktitle={Anais do IX Symposium on Knowledge Discovery, Mining and Learning},
+  pages={105--112},
+  year={2021},
   organization={SBC}
 }
 ```
