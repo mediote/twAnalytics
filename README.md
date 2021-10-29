@@ -13,6 +13,8 @@
 ## Abstract
 Collective imunization is critical to combat COVID, but a large portion of the population in many countries refuses to be vaccinated despite the availability of vaccines. We developed a temporal analysis of pro/against stances towards COVID vaccination in Brazil using Twitter. We summarized the main topics expressed by pro/anti-vaxxers using BERTopic, a dynamic topic modeling technique, and related them to events in the national scenario. The anti-vaxxers were prevalent throughout 2020, expressing concerns about mandatory vaccination with a strong political bias. The pro-vaxxer movement significantly increased by late 2020 with the begging of immunization and became prevalent in 2021. This group expresses joy and anxiety to get vaccinated and criticisms towards the Federal Government. 
 
+See the <a href="https://sol.sbc.org.br/index.php/kdmile/article/download/17467/17302">paper</a> for more details on how it works.
+
 
 ## Colab 
 
