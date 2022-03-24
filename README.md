@@ -20,8 +20,7 @@ See the <a href="https://sol.sbc.org.br/index.php/kdmile/article/download/17467/
 
 | Nome  | Link  |
 |---|---|
-| Text pre-processing  and data crawling on Twitter API  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/GetTwitter.ipynb)  |
-| Topic modeling with BERTopic  |  [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/BERTopic.ipynb) |
+| Crawling on Twitter API, text pre-processing and Topic modeling with BERTopic  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/GetTwitter.ipynb)  |
 
 
 ## Datasets
