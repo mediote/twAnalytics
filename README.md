@@ -18,9 +18,10 @@ See the <a href="https://sol.sbc.org.br/index.php/kdmile/article/download/17467/
 
 ## Colab 
 
-| Functions  | Link  |
+| Apps  | Link  |
 |---|---|
 | Crawling on Twitter API, text pre-processing and Topic modeling with BERTopic  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/twAnalytics.ipynb)  |
+| Streamlit App for data Crawling on Twitter API  | [![Open on Colab](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mediote/sbbd/main/app.py)  |
 
 
 ## Datasets
